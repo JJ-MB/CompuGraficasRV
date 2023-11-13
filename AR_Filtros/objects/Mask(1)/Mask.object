@@ -1,0 +1,139 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Mask",
+  "identifier": "master3_d_object_model:217682-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+  "sourceIdentifier": "asset_collection_model:217686-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.48388493061065674,
+  "globalScaleFactor": 1,
+  "height": 0.9725823402404785,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.8377326726913452,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Box001",
+      "identifier": "mesh:217662-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "Box001",
+      "numberOfFaces": 7968,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:217666-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707963705062866,
+        "ry": -0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:217664-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:217669-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:217654-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+              "surfaceGroupIdentifier": "217670-9c1aa2c3-087e-414b-8892-fc928cdcda3a"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:217710-9c1aa2c3-087e-414b-8892-fc928cdcda3a"
+        }
+      ]
+    },
+    {
+      "modelName": "mesh",
+      "name": "Box002",
+      "identifier": "mesh:217672-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "Box002",
+      "numberOfFaces": 7968,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:217676-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707963705062866,
+        "ry": -0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:217674-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:217679-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:217658-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+              "surfaceGroupIdentifier": "217680-9c1aa2c3-087e-414b-8892-fc928cdcda3a"
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:217712-9c1aa2c3-087e-414b-8892-fc928cdcda3a"
+        }
+      ]
+    }
+  ]
+}

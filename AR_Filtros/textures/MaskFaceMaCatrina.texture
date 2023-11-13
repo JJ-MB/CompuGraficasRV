@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "MaskFaceMaCatrina",
+  "identifier": "texture:225584-9c1aa2c3-087e-414b-8892-fc928cdcda3a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "bd209673e702b51c0a6de1ab5782bc32",
+  "assetLocator": "textures/MaskFaceMaCatrina.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "bd209673e702b51c0a6de1ab5782bc32",
+      "colorCount": 2030,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.216432005388436,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
